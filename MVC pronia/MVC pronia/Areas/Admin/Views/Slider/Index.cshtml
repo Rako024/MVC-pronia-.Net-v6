@@ -1,0 +1,58 @@
+﻿@using Core.Models
+@model List<Slider>
+@{
+    int count = 0;
+}
+<div class="container mb-5">
+    <div class="row align-items-center">
+        <h1 class="col-sm-6">Sliders</h1>
+        <div class="col-sm-3"></div>
+        <div class="col-sm-1 text-end">
+            <a class="btn btn-primary" asp-action="Create">Create</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Title</th>
+                <th scope="col">SubTitle</th>
+                <th scope="col">Description</th>
+                <th scope="col">Image</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <td>@count</td>
+                    <td>@item.Title</td>
+                    <td>@item.SubTitle</td>
+                    <td>@item.Description</td>
+
+                    <td>
+                        <div style="width:100px">
+                            <img width="100%" src="~/upload/Slider/@item.ImgUrl" />
+                        </div>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update"  asp-controller="Slider"  asp-route-id=@item.Id>Update</a>
+                        <a class="btn btn-danger" asp-action="Delete"  asp-controller="Slider"  asp-route-id=@item.Id>Delete</a>
+                    </td>
+                </tr>
+
+            }
+
+
+        </tbody>
+    </table>
+
+</div>

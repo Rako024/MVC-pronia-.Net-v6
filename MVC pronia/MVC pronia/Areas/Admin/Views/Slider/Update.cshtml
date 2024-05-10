@@ -1,0 +1,35 @@
+﻿@using Core.Models
+@model Slider;
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title" class="form-label">Title</label>
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="SubTitle" class="form-label">SubTitle</label>
+                <input asp-for="SubTitle" class="form-control">
+                <span asp-validation-for="SubTitle" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="PhotoFile" class="form-label">ImgUrl</label>
+                <input asp-for="PhotoFile" class="form-control">
+                <span asp-validation-for="PhotoFile" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="mb-3 col-md-9">
+                <label asp-for="Description" class="form-label">Description</label>
+                <textarea class="form-control" asp-for="Description" rows="3"></textarea>
+                <span asp-validation-for="Description" style="color:red"></span>
+            </div>
+
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
