@@ -15,3 +15,4 @@ C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Business\obj\Debug\net6.0\
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Business\obj\Debug\net6.0\Business.sourcelink.json

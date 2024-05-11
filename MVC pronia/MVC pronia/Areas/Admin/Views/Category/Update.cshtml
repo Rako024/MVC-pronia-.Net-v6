@@ -1,0 +1,15 @@
+﻿@using Core.Models
+@model Category;
+<div class="container ">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row ">
+
+            <div class="mb-3 col-md-6">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" style="color:red"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

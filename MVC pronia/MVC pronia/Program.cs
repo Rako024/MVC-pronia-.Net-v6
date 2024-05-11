@@ -15,6 +15,12 @@ namespace MVC_pronia
             builder.Services.AddControllersWithViews();
             builder.Services.AddScoped<ISliderRepository,SliderRepository>();   
             builder.Services.AddScoped<ISliderService,SliderService>();
+            builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService,CategoryService>();
+            builder.Services.AddScoped<ITagRepository,TagRepository>();
+            builder.Services.AddScoped<ITagService,TagService>();
+            builder.Services.AddScoped<IProductRepository,ProductRepository>();
+            builder.Services.AddScoped<IProductService, ProductService>();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));

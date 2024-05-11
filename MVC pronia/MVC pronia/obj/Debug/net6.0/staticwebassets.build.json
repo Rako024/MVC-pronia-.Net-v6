@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "35qtIzG2caEz6c8gAAy2xNxRwpg4SJ64NzdJstmMk5A=",
+  "Hash": "DtZifm0p0od6EXpx7QMfXTxazOB0MFGnKfi2EouisSU=",
   "Source": "MVC pronia",
   "BasePath": "_content/MVC pronia",
   "Mode": "Default",
@@ -39252,12 +39252,12 @@
       "OriginalItemSpec": "wwwroot\\manage\\vendor\\jquery-easing\\jquery.easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\1428518.jpg",
+      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\download.jpg",
       "SourceId": "MVC pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
       "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/1428518.jpg",
+      "RelativePath": "upload/Product/download.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39268,15 +39268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\1428518.jpg"
+      "OriginalItemSpec": "wwwroot\\upload\\Product\\download.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\1920x1080-px-avid-technology-computer-simple-sports-other-hd-art-wallpaper-preview.jpg",
+      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\rose.jpg",
       "SourceId": "MVC pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
       "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/1920x1080-px-avid-technology-computer-simple-sports-other-hd-art-wallpaper-preview.jpg",
+      "RelativePath": "upload/Product/rose.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39287,15 +39287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\1920x1080-px-avid-technology-computer-simple-sports-other-hd-art-wallpaper-preview.jpg"
+      "OriginalItemSpec": "wwwroot\\upload\\Product\\rose.jpg"
     },
     {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\asdad.jpg",
+      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\Screenshot 2022-12-16 153806.png",
       "SourceId": "MVC pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
       "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/asdad.jpg",
+      "RelativePath": "upload/Product/Screenshot 2022-12-16 153806.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39306,15 +39306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\asdad.jpg"
+      "OriginalItemSpec": "wwwroot\\upload\\Product\\Screenshot 2022-12-16 153806.png"
     },
     {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\elvarrr.jpg",
+      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153733.png",
       "SourceId": "MVC pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
       "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/elvarrr.jpg",
+      "RelativePath": "upload/Slider/Screenshot 2022-12-16 153733.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39325,15 +39325,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\elvarrr.jpg"
+      "OriginalItemSpec": "wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153733.png"
     },
     {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\men.jpg",
+      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2024-04-25 181454.png",
       "SourceId": "MVC pronia",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
       "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/men.jpg",
+      "RelativePath": "upload/Slider/Screenshot 2024-04-25 181454.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -39344,45 +39344,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\men.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\rashid.jpg",
-      "SourceId": "MVC pronia",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
-      "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/rashid.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\rashid.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153920.png",
-      "SourceId": "MVC pronia",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\",
-      "BasePath": "_content/MVC pronia",
-      "RelativePath": "upload/Slider/Screenshot 2022-12-16 153920.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153920.png"
+      "OriginalItemSpec": "wwwroot\\upload\\Slider\\Screenshot 2024-04-25 181454.png"
     }
   ]
 }

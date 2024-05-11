@@ -1,0 +1,47 @@
+﻿@using Core.Models
+@model List<Category>
+@{
+    int count = 0;
+}
+<div class="container mb-5">
+    <div class="row align-items-center">
+        <h1 class="col-sm-6">Categories</h1>
+        <div class="col-sm-3"></div>
+        <div class="col-sm-1 text-end">
+            <a class="btn btn-primary" asp-action="Create">Create</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <td>@count</td>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="Category" asp-route-id=@item.Id>Update</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-id=@item.Id>Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

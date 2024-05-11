@@ -8261,32 +8261,24 @@
       "PackagePath": "staticwebassets\\manage\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\1428518.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\1428518.jpg"
+      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\Screenshot 2022-12-16 153806.png",
+      "PackagePath": "staticwebassets\\upload\\Product\\Screenshot 2022-12-16 153806.png"
     },
     {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\1920x1080-px-avid-technology-computer-simple-sports-other-hd-art-wallpaper-preview.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\1920x1080-px-avid-technology-computer-simple-sports-other-hd-art-wallpaper-preview.jpg"
+      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\download.jpg",
+      "PackagePath": "staticwebassets\\upload\\Product\\download.jpg"
     },
     {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153920.png",
-      "PackagePath": "staticwebassets\\upload\\Slider\\Screenshot 2022-12-16 153920.png"
+      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Product\\rose.jpg",
+      "PackagePath": "staticwebassets\\upload\\Product\\rose.jpg"
     },
     {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\asdad.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\asdad.jpg"
+      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2022-12-16 153733.png",
+      "PackagePath": "staticwebassets\\upload\\Slider\\Screenshot 2022-12-16 153733.png"
     },
     {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\elvarrr.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\elvarrr.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\men.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\men.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\rashid.jpg",
-      "PackagePath": "staticwebassets\\upload\\Slider\\rashid.jpg"
+      "Id": "C:\\Users\\Rashid\\Desktop\\MVC-pronia-.Net-v6\\MVC pronia\\MVC pronia\\wwwroot\\upload\\Slider\\Screenshot 2024-04-25 181454.png",
+      "PackagePath": "staticwebassets\\upload\\Slider\\Screenshot 2024-04-25 181454.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVC pronia.Microsoft.AspNetCore.StaticWebAssets.props",

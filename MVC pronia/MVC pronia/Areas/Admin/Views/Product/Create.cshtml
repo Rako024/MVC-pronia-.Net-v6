@@ -1,0 +1,64 @@
+﻿@using Core.Models
+@model Product;
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+
+            <div class="mb-3 col-md-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Color" class="form-label">Color</label>
+                <input asp-for="Color" class="form-control">
+                <span asp-validation-for="Color" style="color:red"></span>
+            </div><div class="mb-3 col-md-3">
+                <label asp-for="Size" class="form-label">Size</label>
+                <input asp-for="Size" class="form-control">
+                <span asp-validation-for="Size" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Price" class="form-label">Price</label>
+                <input asp-for="Price" class="form-control">
+                <span asp-validation-for="Price" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Count" class="form-label">Count</label>
+                <input asp-for="Count" class="form-control">
+                <span asp-validation-for="Count" style="color:red"></span>
+            </div>
+            
+            <div class="mb-3 col-md-9">
+                <select asp-for="CategoryId" class="form-select" aria-label="Default select example">
+                    <option selected>Open this Category Menu</option>
+                    @foreach (Category item in ViewBag.Categories)
+                    {
+                    <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="MainPhotoFile" class="form-label">MainImgUrl</label>
+                <input asp-for="MainPhotoFile" class="form-control">
+                <span asp-validation-for="MainPhotoFile" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="PhotoFile" class="form-label">ImgUrl</label>
+                <input asp-for="PhotoFile" class="form-control">
+                <span asp-validation-for="PhotoFile" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="mb-3 col-md-9">
+                <label asp-for="Description" class="form-label">Description</label>
+                <textarea class="form-control" asp-for="Description" rows="3"></textarea>
+                <span asp-validation-for="Description" style="color:red"></span>
+            </div>
+
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

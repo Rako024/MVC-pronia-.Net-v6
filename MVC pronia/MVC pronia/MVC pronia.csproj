@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\upload\Product\" />
     <Folder Include="wwwroot\upload\Slider\" />
   </ItemGroup>
 

@@ -15,3 +15,4 @@ C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Data\obj\Debug\net6.0\refi
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Data\obj\Debug\net6.0\Data.sourcelink.json

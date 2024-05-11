@@ -10,3 +10,4 @@ C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Core\obj\Debug\net6.0\refi
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Core\obj\Debug\net6.0\ref\Core.dll
 C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Rashid\Desktop\MVC-pronia-.Net-v6\MVC pronia\Core\obj\Debug\net6.0\Core.sourcelink.json

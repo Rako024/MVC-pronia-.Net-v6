@@ -1,0 +1,29 @@
+﻿@model Core.Models.Product
+
+<div class="container">
+    <h2 class="mt-4 mb-4">Product Details</h2>
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Name: @Model.Name</h4>
+            <p class="card-text">Color: @Model.Color</p>
+            <p class="card-text">Description: @Model.Description</p>
+            <p class="card-text">Size: @Model.Size</p>
+            <p class="card-text">Price: @Model.Price</p>
+            <p class="card-text">Count: @Model.Count</p>
+            @if (Model.Category != null)
+            {
+                <p class="card-text">Category: @Model.Category.Name</p>
+            }
+            <p class="card-text">
+                Main Image : <div style="width:100px">
+                    <img width="100%" src="~/upload/Product/@Model.MainImgUrl" />
+                </div>
+            </p>
+            <p class="card-text">
+                Image <div style="width:100px">
+                    <img width="100%" src="~/upload/Product/@Model.ImgUrl" />
+                </div>
+            </p>
+        </div>
+    </div>
+</div>
